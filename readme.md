@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full Stack Developer with 5 years of hands-on experience specializing in the JavaScript ecosystem. Proficient in **React.js, Node.js, and Generative AI**, I bridge the gap between robust backend cloud architecture and sleek, user-friendly interfaces. My expertise lies in deploying scalable applications on **Cloud platforms** while ensuring a premium UI/UX experience.
 
-*   🖥️  See my portfolio at [saibendalam.com](https://saibendalam.com/) (Update with your link)
+*   🖥️  See my portfolio at [saibendalam.dev](https://saibendalam.dev/) (Update with your link)
 *   ✉️  You can contact me at [saikrishnabendalam@gmail.com](mailto:saikrishnabendalam@gmail.com)
 *   🧠  I'm currently mastering **Cloud Native Architectures & Next.js**
 *   🤝  I'm open to collaborating on **Full Stack & Gen AI Projects**
